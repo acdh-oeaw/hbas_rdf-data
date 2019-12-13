@@ -8,3 +8,6 @@ Website: https://bahrschnitzler.acdh.oeaw.ac.at
 
 ## TEI Source
 https://github.com/martinantonmueller/Hermann-Bahr_Arthur-Schnitzler
+
+## License
+https://creativecommons.org/licenses/by/3.0/
