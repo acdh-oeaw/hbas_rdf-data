@@ -4,10 +4,11 @@ Data of *Hermann Bahr, Arthur Schnitzler:Briefwechsel, Materialien, Dokumente. H
 
 Data Modeling and Transformation by Ingo Börner
 
-Website: https://bahrschnitzler.acdh.oeaw.ac.at
+Website: https://schnitzler-bahr.acdh.oeaw.ac.at
 
 ## TEI Source
-https://github.com/martinantonmueller/Hermann-Bahr_Arthur-Schnitzler
+https://github.com/arthur-schnitzler/schnitzler-bahr-data/
+
 
 ## License
 https://creativecommons.org/licenses/by/3.0/
